@@ -5,8 +5,8 @@
 <img align ="left" alt="coding" width="40%" src="Capture.PNG">
 <img align ="right" alt="coding" width="40%" src="1.PNG">
 
-<img align ="right" alt="coding" width="40%" src="3.PNG" margin-top="20px">
-<img align ="left" alt="coding" width="40%" src="4.PNG" margin-top="20px">
+<img align ="right" alt="coding" width="40%" src="3.PNG" padding-top="20px">
+<img align ="left" alt="coding" width="40%" src="4.PNG" padding-top="20px">
 
 
 
